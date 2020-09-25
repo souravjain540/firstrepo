@@ -1,2 +1,2 @@
 # firstrepo
-a test repository created to learn about git
+Repo for learning about the GIT
